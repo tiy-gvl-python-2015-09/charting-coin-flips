@@ -47,7 +47,7 @@ Create these plots again, but as scatter plots with a logarithmic scale for the 
 
 Write notes about what you observe. Feel free to add more plots to help you.
 
-Now we will look at the mean and standard deviation of these trials of flipping coins. Flip coins as before, but run 20 trials of 2**16 each.
+Now we will look at the mean and standard deviation of these trials of flipping coins. Flip coins as before, but run 20 trials of `2 ** 16` each.
 
 Use a scatter plot to plot the mean heads/tails ratio at each recorded point, and another scatter plot to plot the standard deviation of the heads/tails ratio at each recorded point. You will want to use a logarithmic scale for the x-axis in both. You may want to do the same for the y-axis with the standard deviation.
 
